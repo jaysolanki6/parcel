@@ -24,7 +24,7 @@ class ParcelTrackerApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Parcel Tracker',
+      title: 'Parcel Tracker1',
       theme: base.copyWith(
         textTheme: GoogleFonts.poppinsTextTheme(base.textTheme),
       ),
